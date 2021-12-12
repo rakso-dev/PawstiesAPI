@@ -115,6 +115,7 @@ namespace PawstiesAPI
             }
 
             app.UseRouting();
+            app.UseCors("MY_CORS");
            // app.UseAuthentication();
            // app.UseAuthorization();
 

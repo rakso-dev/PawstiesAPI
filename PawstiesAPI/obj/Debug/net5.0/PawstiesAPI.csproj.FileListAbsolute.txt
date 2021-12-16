@@ -101,3 +101,4 @@
 /Users/oskarbeltranmagana/Documents/GitHub/Pawsties/API/PawstiesAPI/PawstiesAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/oskarbeltranmagana/Documents/GitHub/Pawsties/API/PawstiesAPI/PawstiesAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
 /Users/oskarbeltranmagana/Documents/GitHub/Pawsties/API/PawstiesAPI/PawstiesAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/oskarbeltranmagana/Documents/GitHub/Pawsties/API/PawstiesAPI/PawstiesAPI/bin/Debug/net5.0/PawstiesAPI

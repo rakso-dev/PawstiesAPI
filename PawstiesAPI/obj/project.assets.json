@@ -4859,7 +4859,7 @@
       "outputPath": "/Users/oskarbeltranmagana/Documents/GitHub/Pawsties/API/PawstiesAPI/PawstiesAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/oskarbeltranmagana/.config/NuGet/NuGet.Config"
+        "/Users/oskarbeltranmagana/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
